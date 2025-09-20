@@ -26,7 +26,7 @@ Currency Bot — это Telegram-бот для конвертации валют
 ## 🔧 Установка и запуск
 1. Клонировать репозиторий:
  ```bash
- git clone <your_repo_url>
+ git clone <https://github.com/Sayst/currency_tgbot.git>
  cd currency-bot
 
 2. Установить зависимости:
